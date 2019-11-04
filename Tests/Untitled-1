@@ -1,0 +1,8 @@
+import java.util.Scanner;
+
+public class test1{
+
+    Scanner kboard = new Scanner(System.in);
+    
+    
+}
